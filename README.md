@@ -3,7 +3,7 @@
 Bievenido a nuestro repositorio 
 
 
-<h2>:wave:Desarrolladores de Umbrella Corps</h2>
+<h2>:wave:Desarrolladores</h2>
 <div style={padding: 10px}>
   <table style={margin: 0 auto}>
   <tr align="center">
